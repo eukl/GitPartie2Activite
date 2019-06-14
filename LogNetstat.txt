@@ -1,0 +1,5 @@
+tcp        0      0 0.0.0.0:22              0.0.0.0:*               LISTEN      6786/sshd           
+tcp        0      0 127.0.0.1:25            0.0.0.0:*               LISTEN      7028/master         
+tcp6       0      0 :::80                   :::*                    LISTEN      6781/httpd          
+tcp6       0      0 :::22                   :::*                    LISTEN      6786/sshd           
+tcp6       0      0 ::1:25                  :::*                    LISTEN      7028/master         
