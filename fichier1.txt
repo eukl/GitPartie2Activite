@@ -1,1 +1,2 @@
 Ceci est un fichier texte, version 1.0
+Ceci est une ligne ajoutée, version 2.0
